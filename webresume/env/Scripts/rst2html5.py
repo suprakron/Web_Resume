@@ -1,4 +1,4 @@
-#!c:\users\user\desktop\webresume\env\scripts\python.exe
+#!c:\users\user\downloads\django-portfolio-website-master\env\scripts\python.exe
 # -*- coding: utf8 -*-
 # :Copyright: © 2015 Günter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:

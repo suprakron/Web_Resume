@@ -1,4 +1,4 @@
-#!c:\users\user\desktop\webresume\env\scripts\python.exe
+#!c:\users\user\downloads\django-portfolio-website-master\env\scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":

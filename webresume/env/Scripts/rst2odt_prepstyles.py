@@ -1,4 +1,4 @@
-#!c:\users\user\desktop\webresume\env\scripts\python.exe
+#!c:\users\user\downloads\django-portfolio-website-master\env\scripts\python.exe
 
 # $Id: rst2odt_prepstyles.py 5839 2009-01-07 19:09:28Z dkuhlman $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>
